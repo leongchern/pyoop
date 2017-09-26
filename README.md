@@ -1,1 +1,1 @@
-Experimenting with Python OOP. Code for chapters as per Dusty Phillip's book.
+Python OOP with Dusty Phillip's book.
