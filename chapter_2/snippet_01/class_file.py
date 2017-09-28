@@ -13,4 +13,3 @@ class Point:
 
     def reset(self):
         self.move(0,0)
-
